@@ -1,2 +1,5 @@
-# Intro_to_github
-Created in pec acm github session
+#include<iostream>
+using namespace std;
+int main(){
+Cout<<"Hello world"
+}
